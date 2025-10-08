@@ -1,0 +1,349 @@
+20:50:45,865 DEBUG (Capability:148) - Parent capabilities: []
+20:50:45,892 DEBUG (Capability:419) - Full access owners: {}
+20:50:45,895 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:45,928 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.core.Capability1572821445868]
+20:50:46,240 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,240 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.helloworld.HelloWorldAnnotatedCapability=[bdi4jade.examples.helloworld.HelloWorldAnnotatedCapability]}
+20:50:46,240 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,250 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.helloworld.HelloWorldAnnotatedCapability]
+20:50:46,291 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,291 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.ping.PingPongCapability=[bdi4jade.examples.ping.PingPongCapability]}
+20:50:46,291 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,308 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.ping.PingPongCapability]
+20:50:46,314 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,314 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.ping.PingPongCapability=[bdi4jade.examples.ping.PingPongCapability]}
+20:50:46,315 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,315 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.ping.PingPongCapability]
+20:50:46,321 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,321 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.bdicycle.CompositeGoalCapability=[bdi4jade.examples.bdicycle.CompositeGoalCapability]}
+20:50:46,323 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,329 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.bdicycle.CompositeGoalCapability]
+20:50:46,331 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,332 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.bdicycle.PlanFailureCapability=[bdi4jade.examples.bdicycle.PlanFailureCapability]}
+20:50:46,332 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,334 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.bdicycle.PlanFailureCapability]
+20:50:46,397 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,397 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.bdicycle.SubgoalCapability=[bdi4jade.examples.bdicycle.SubgoalCapability]}
+20:50:46,397 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,409 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.bdicycle.SubgoalCapability]
+20:50:46,415 DEBUG (Capability:148) - Parent capabilities: [class bdi4jade.examples.capabilities.TopParentCapability]
+20:50:46,416 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.TopCapability=[bdi4jade.examples.capabilities.TopCapability], class bdi4jade.examples.capabilities.TopParentCapability=[bdi4jade.examples.capabilities.TopCapability]}
+20:50:46,416 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,419 DEBUG (Capability:148) - Parent capabilities: [class bdi4jade.examples.capabilities.Middle1ParentCapability]
+20:50:46,420 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.Middle1ParentCapability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.Middle1Capability=[bdi4jade.examples.capabilities.Middle1Capability]}
+20:50:46,420 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,420 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,420 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.BottomCapability=[bdi4jade.examples.capabilities.BottomCapability]}
+20:50:46,421 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,433 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,433 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.Middle2Capability=[bdi4jade.examples.capabilities.Middle2Capability]}
+20:50:46,433 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,435 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.capabilities.TopCapability]
+20:50:46,437 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.TopCapability=[bdi4jade.examples.capabilities.TopCapability], class bdi4jade.examples.capabilities.Middle1ParentCapability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.Middle1Capability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.TopParentCapability=[bdi4jade.examples.capabilities.TopCapability]}
+20:50:46,437 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,438 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.TopCapability=[bdi4jade.examples.capabilities.TopCapability], class bdi4jade.examples.capabilities.TopParentCapability=[bdi4jade.examples.capabilities.TopCapability]}
+20:50:46,438 DEBUG (Capability:420) - Restricted access owners: {class bdi4jade.examples.capabilities.Middle1ParentCapability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.Middle1Capability=[bdi4jade.examples.capabilities.Middle1Capability]}
+20:50:46,438 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.capabilities.Middle1Capability, bdi4jade.examples.capabilities.TopCapability]
+20:50:46,442 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.BottomCapability=[bdi4jade.examples.capabilities.BottomCapability], class bdi4jade.examples.capabilities.Middle1ParentCapability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.Middle1Capability=[bdi4jade.examples.capabilities.Middle1Capability]}
+20:50:46,442 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,443 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.TopCapability=[bdi4jade.examples.capabilities.TopCapability], class bdi4jade.examples.capabilities.Middle1ParentCapability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.Middle1Capability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.TopParentCapability=[bdi4jade.examples.capabilities.TopCapability]}
+20:50:46,443 DEBUG (Capability:420) - Restricted access owners: {class bdi4jade.examples.capabilities.BottomCapability=[bdi4jade.examples.capabilities.BottomCapability]}
+20:50:46,443 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.capabilities.BottomCapability, bdi4jade.examples.capabilities.Middle1Capability, bdi4jade.examples.capabilities.TopCapability]
+20:50:46,445 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.Middle2Capability=[bdi4jade.examples.capabilities.Middle2Capability], class bdi4jade.examples.capabilities.TopCapability=[bdi4jade.examples.capabilities.TopCapability], class bdi4jade.examples.capabilities.TopParentCapability=[bdi4jade.examples.capabilities.TopCapability]}
+20:50:46,501 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,505 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.capabilities.TopCapability=[bdi4jade.examples.capabilities.TopCapability], class bdi4jade.examples.capabilities.TopParentCapability=[bdi4jade.examples.capabilities.TopCapability]}
+20:50:46,505 DEBUG (Capability:420) - Restricted access owners: {class bdi4jade.examples.capabilities.Middle2Capability=[bdi4jade.examples.capabilities.Middle2Capability], class bdi4jade.examples.capabilities.Middle1ParentCapability=[bdi4jade.examples.capabilities.Middle1Capability], class bdi4jade.examples.capabilities.Middle1Capability=[bdi4jade.examples.capabilities.Middle1Capability]}
+20:50:46,506 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.capabilities.Middle2Capability, bdi4jade.examples.capabilities.BottomCapability, bdi4jade.examples.capabilities.Middle1Capability, bdi4jade.examples.capabilities.TopCapability]
+20:50:46,532 DEBUG (Capability:148) - Parent capabilities: []
+20:50:46,533 DEBUG (Capability:419) - Full access owners: {class bdi4jade.examples.blocksworld.BlocksWorldCapability=[bdi4jade.examples.blocksworld.BlocksWorldCapability]}
+20:50:46,533 DEBUG (Capability:420) - Restricted access owners: {}
+20:50:46,551 DEBUG (AbstractBDIAgent:686) - Capabilities: [bdi4jade.examples.blocksworld.BlocksWorldCapability]
+20:50:46,574  INFO (BDI4JADEExamplesApp:72) - Plataform parameters: [-gui, -detect-main:false]
+20:51:11,405  INFO (TopLevelPlanBody:113) - [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#3_Block#4, ON_Block#1_Block#2, ON_Block#2_Block#3]
+20:51:11,409  INFO (TopLevelPlanBody:90) - World Model at start is:
+20:51:11,410  INFO (TopLevelPlanBody:91) - Belief base of Capability bdi4jade.examples.blocksworld.BlocksWorldCapability = [clear = [CLEAR_Table, CLEAR_Block#4], on = [ON_Block#4_Block#5, ON_Block#1_Table, ON_Block#3_Block#1, ON_Block#2_Block#3, ON_Block#5_Block#2]]
+20:51:11,421 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#4 in clear
+20:51:11,433 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Table in clear
+20:51:11,438 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#1_Table, ON_Block#3_Block#1, ON_Block#2_Block#3, ON_Block#5_Block#2]
+Action: BELIEF_SET_VALUE_REMOVED - ON_Block#4_Block#5
+20:51:11,439 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#4, CLEAR_Block#5]
+Action: BELIEF_SET_VALUE_ADDED - CLEAR_Block#5
+20:51:12,305 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#4_Table, ON_Block#1_Table, ON_Block#3_Block#1, ON_Block#2_Block#3, ON_Block#5_Block#2]
+Action: BELIEF_SET_VALUE_ADDED - ON_Block#4_Table
+20:51:13,340 DEBUG (AbstractBDIAgent:482) - Goal: PerformMove (ACHIEVED) - PerformMove: Block#4 to Table
+20:51:13,341 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: ON_Block#4_Table in on
+20:51:13,341 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#5 in clear
+20:51:13,343 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Table in clear
+20:51:13,344 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#4_Table, ON_Block#1_Table, ON_Block#3_Block#1, ON_Block#2_Block#3]
+Action: BELIEF_SET_VALUE_REMOVED - ON_Block#5_Block#2
+20:51:13,344 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#2, CLEAR_Block#4, CLEAR_Block#5]
+Action: BELIEF_SET_VALUE_ADDED - CLEAR_Block#2
+20:51:14,640 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#4_Table, ON_Block#5_Table, ON_Block#1_Table, ON_Block#3_Block#1, ON_Block#2_Block#3]
+Action: BELIEF_SET_VALUE_ADDED - ON_Block#5_Table
+20:51:15,773 DEBUG (AbstractBDIAgent:482) - Goal: PerformMove (ACHIEVED) - PerformMove: Block#5 to Table
+20:51:15,777 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: ON_Block#5_Table in on
+20:51:15,781 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#4 in clear
+20:51:15,783 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#5 in clear
+20:51:15,784 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#1_Table, ON_Block#3_Block#1, ON_Block#2_Block#3]
+Action: BELIEF_SET_VALUE_REMOVED - ON_Block#4_Table
+20:51:15,785 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#2, CLEAR_Block#4]
+Action: BELIEF_SET_VALUE_REMOVED - CLEAR_Block#5
+20:51:15,785 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#1_Table, ON_Block#3_Block#1, ON_Block#2_Block#3]
+Action: BELIEF_SET_VALUE_ADDED - ON_Block#4_Block#5
+20:51:16,881 DEBUG (AbstractBDIAgent:482) - Goal: PerformMove (ACHIEVED) - PerformMove: Block#4 to Block#5
+20:51:16,885 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: ON_Block#4_Block#5 in on
+20:51:16,894 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#2 in clear
+20:51:16,895 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Table in clear
+20:51:16,897 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#1_Table, ON_Block#3_Block#1]
+Action: BELIEF_SET_VALUE_REMOVED - ON_Block#2_Block#3
+20:51:16,897 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#2, CLEAR_Block#3, CLEAR_Block#4]
+Action: BELIEF_SET_VALUE_ADDED - CLEAR_Block#3
+20:51:17,951 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#2_Table, ON_Block#1_Table, ON_Block#3_Block#1]
+Action: BELIEF_SET_VALUE_ADDED - ON_Block#2_Table
+20:51:19,043 DEBUG (AbstractBDIAgent:482) - Goal: PerformMove (ACHIEVED) - PerformMove: Block#2 to Table
+20:51:19,047 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: ON_Block#2_Table in on
+20:51:19,048 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#3 in clear
+20:51:19,050 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#4 in clear
+20:51:19,051 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#2_Table, ON_Block#1_Table]
+Action: BELIEF_SET_VALUE_REMOVED - ON_Block#3_Block#1
+20:51:19,052 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#1, CLEAR_Block#2, CLEAR_Block#3, CLEAR_Block#4]
+Action: BELIEF_SET_VALUE_ADDED - CLEAR_Block#1
+20:51:20,158 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#1, CLEAR_Block#2, CLEAR_Block#3]
+Action: BELIEF_SET_VALUE_REMOVED - CLEAR_Block#4
+20:51:20,167 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#2_Table, ON_Block#1_Table, ON_Block#3_Block#4]
+Action: BELIEF_SET_VALUE_ADDED - ON_Block#3_Block#4
+20:51:21,215 DEBUG (AbstractBDIAgent:482) - Goal: PerformMove (ACHIEVED) - PerformMove: Block#3 to Block#4
+20:51:21,242 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: ON_Block#3_Block#4 in on
+20:51:21,256 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#2 in clear
+20:51:21,267 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#3 in clear
+20:51:21,276 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#1_Table, ON_Block#3_Block#4]
+Action: BELIEF_SET_VALUE_REMOVED - ON_Block#2_Table
+20:51:21,287 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#1, CLEAR_Block#2]
+Action: BELIEF_SET_VALUE_REMOVED - CLEAR_Block#3
+20:51:21,290 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#1_Table, ON_Block#3_Block#4, ON_Block#2_Block#3]
+Action: BELIEF_SET_VALUE_ADDED - ON_Block#2_Block#3
+20:51:22,279 DEBUG (AbstractBDIAgent:482) - Goal: PerformMove (ACHIEVED) - PerformMove: Block#2 to Block#3
+20:51:22,282 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: ON_Block#2_Block#3 in on
+20:51:22,284 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#1 in clear
+20:51:22,285 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: CLEAR_Block#2 in clear
+20:51:22,286 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#3_Block#4, ON_Block#2_Block#3]
+Action: BELIEF_SET_VALUE_REMOVED - ON_Block#1_Table
+20:51:22,286 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: clear = [CLEAR_Table, CLEAR_Block#1]
+Action: BELIEF_SET_VALUE_REMOVED - CLEAR_Block#2
+20:51:22,287 DEBUG (BlocksWorldView:73) - BeliefEvent
+Belief: on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#3_Block#4, ON_Block#1_Block#2, ON_Block#2_Block#3]
+Action: BELIEF_SET_VALUE_ADDED - ON_Block#1_Block#2
+20:51:23,449 DEBUG (AbstractBDIAgent:482) - Goal: PerformMove (ACHIEVED) - PerformMove: Block#1 to Block#2
+20:51:23,453 DEBUG (AbstractBDIAgent:482) - Goal: BeliefSetHasValueGoal (ACHIEVED) - bdi4jade.goal.BeliefSetHasValueGoal: ON_Block#1_Block#2 in on
+20:51:23,454  INFO (TopLevelPlanBody:82) - World Model at end is:
+20:51:23,455  INFO (TopLevelPlanBody:83) - Belief base of Capability bdi4jade.examples.blocksworld.BlocksWorldCapability = [clear = [CLEAR_Table, CLEAR_Block#1], on = [ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#3_Block#4, ON_Block#1_Block#2, ON_Block#2_Block#3]]
+20:51:23,456 DEBUG (AbstractBDIAgent:482) - Goal: BeliefValueGoal (ACHIEVED) - bdi4jade.goal.BeliefValueGoal: on=[ON_Block#5_Table, ON_Block#4_Block#5, ON_Block#3_Block#4, ON_Block#1_Block#2, ON_Block#2_Block#3]
+20:51:23,456  INFO (BDI4JADEExamplesPanel$BlocksWorldAction:103) - Goal achieved!!
+20:51:27,618  INFO (TestPlanBody:64) - Testing beliefs...
+20:51:27,618  INFO (TestPlanBody:65) - These should be not null:
+20:51:27,619  INFO (TestPlanBody:66) - topParentBelief: topParentBelief = TOP_PARENT_BELIEF
+20:51:27,619  INFO (TestPlanBody:67) - topBelief: topBelief = TOP_BELIEF
+20:51:27,619  INFO (TestPlanBody:68) - middle1ParentBelief: middle1ParentBelief = MIDDLE1_PARENT_BELIEF
+20:51:27,619  INFO (TestPlanBody:69) - middle1Belief: middle1Belief = MIDDLE1_BELIEF
+20:51:27,619  INFO (TestPlanBody:70) - These should be null:
+20:51:27,619  INFO (TestPlanBody:71) - middle2Belief: null
+20:51:27,619  INFO (TestPlanBody:72) - bottomBelief: null
+20:51:27,619  INFO (TestPlanBody:74) - Testing plans...
+20:51:27,620  INFO (SuccessPlanBody:40) - Plan [ bdi4jade.examples.capabilities.Middle1Capability$Middle1ExternalGoal ] :: bdi4jade.examples.capabilities.SuccessPlanBody executed from capability bdi4jade.examples.capabilities.Middle1Capability to achieve goal bdi4jade.examples.capabilities.Middle1Capability$Middle1ExternalGoal@5863bbfe
+20:51:27,621 DEBUG (AbstractBDIAgent:482) - Goal: Middle1ExternalGoal (ACHIEVED) - bdi4jade.examples.capabilities.Middle1Capability$Middle1ExternalGoal@5863bbfe
+20:51:27,622 DEBUG (TestPlanBody:174) - Goal Middle1ExternalGoal completed - expected result
+20:51:27,623  INFO (SuccessPlanBody:40) - Plan [ bdi4jade.examples.capabilities.Middle1Capability$Middle1InternalGoal ] :: bdi4jade.examples.capabilities.SuccessPlanBody executed from capability bdi4jade.examples.capabilities.Middle1Capability to achieve goal bdi4jade.examples.capabilities.Middle1Capability$Middle1InternalGoal@3c02184c
+20:51:27,623 DEBUG (AbstractBDIAgent:482) - Goal: Middle1InternalGoal (ACHIEVED) - bdi4jade.examples.capabilities.Middle1Capability$Middle1InternalGoal@3c02184c
+20:51:27,624 DEBUG (TestPlanBody:174) - Goal Middle1InternalGoal completed - expected result
+20:51:27,625  INFO (SuccessPlanBody:40) - Plan [ bdi4jade.examples.capabilities.Middle1ParentCapability$Middle1ParentInternalGoal ] :: bdi4jade.examples.capabilities.SuccessPlanBody executed from capability bdi4jade.examples.capabilities.Middle1Capability to achieve goal bdi4jade.examples.capabilities.Middle1ParentCapability$Middle1ParentInternalGoal@51ae6f4d
+20:51:27,626 DEBUG (AbstractBDIAgent:482) - Goal: Middle1ParentInternalGoal (ACHIEVED) - bdi4jade.examples.capabilities.Middle1ParentCapability$Middle1ParentInternalGoal@51ae6f4d
+20:51:27,627 DEBUG (TestPlanBody:174) - Goal Middle1ParentInternalGoal completed - expected result
+20:51:27,628  INFO (SuccessPlanBody:40) - Plan [ bdi4jade.examples.capabilities.TopCapability$TopExternalGoal ] :: bdi4jade.examples.capabilities.SuccessPlanBody executed from capability bdi4jade.examples.capabilities.TopCapability to achieve goal bdi4jade.examples.capabilities.TopCapability$TopExternalGoal@2e0bc314
+20:51:27,628 DEBUG (AbstractBDIAgent:482) - Goal: TopExternalGoal (ACHIEVED) - bdi4jade.examples.capabilities.TopCapability$TopExternalGoal@2e0bc314
+20:51:27,629 DEBUG (TestPlanBody:174) - Goal TopExternalGoal completed - expected result
+20:51:27,630  INFO (SuccessPlanBody:40) - Plan [ bdi4jade.examples.capabilities.TopCapability$TopInternalGoal ] :: bdi4jade.examples.capabilities.SuccessPlanBody executed from capability bdi4jade.examples.capabilities.TopCapability to achieve goal bdi4jade.examples.capabilities.TopCapability$TopInternalGoal@4a3b7a1a
+20:51:27,630 DEBUG (AbstractBDIAgent:482) - Goal: TopInternalGoal (ACHIEVED) - bdi4jade.examples.capabilities.TopCapability$TopInternalGoal@4a3b7a1a
+20:51:27,631 DEBUG (TestPlanBody:174) - Goal TopInternalGoal completed - expected result
+20:51:27,632  INFO (SuccessPlanBody:40) - Plan [ bdi4jade.examples.capabilities.TopParentCapability$TopParentInternalGoal ] :: bdi4jade.examples.capabilities.SuccessPlanBody executed from capability bdi4jade.examples.capabilities.TopCapability to achieve goal bdi4jade.examples.capabilities.TopParentCapability$TopParentInternalGoal@4a76eb11
+20:51:27,632 DEBUG (AbstractBDIAgent:482) - Goal: TopParentInternalGoal (ACHIEVED) - bdi4jade.examples.capabilities.TopParentCapability$TopParentInternalGoal@4a76eb11
+20:51:27,634 DEBUG (TestPlanBody:174) - Goal TopParentInternalGoal completed - expected result
+20:51:27,635 ERROR (AbstractBDIAgent:303) - java.lang.IllegalAccessException: Capability bdi4jade.examples.capabilities.Middle1Capability has no access to goal bdi4jade.examples.capabilities.Middle2Capability$Middle2ExternalGoal of capability bdi4jade.examples.capabilities.Middle2Capability
+20:51:27,635 DEBUG (TestPlanBody:168) - Goal Middle2ExternalGoal dispatched - expected result
+20:51:27,637  INFO (SuccessPlanBody:40) - Plan [ bdi4jade.examples.capabilities.BottomCapability$BottomExternalGoal ] :: bdi4jade.examples.capabilities.SuccessPlanBody executed from capability bdi4jade.examples.capabilities.BottomCapability to achieve goal bdi4jade.examples.capabilities.BottomCapability$BottomExternalGoal@2b64e4a3
+20:51:27,637 DEBUG (AbstractBDIAgent:482) - Goal: BottomExternalGoal (ACHIEVED) - bdi4jade.examples.capabilities.BottomCapability$BottomExternalGoal@2b64e4a3
+20:51:27,638 DEBUG (TestPlanBody:174) - Goal BottomExternalGoal completed - expected result
+20:51:27,639 ERROR (AbstractBDIAgent:303) - java.lang.IllegalAccessException: Capability bdi4jade.examples.capabilities.Middle1Capability has no access to goal bdi4jade.examples.capabilities.BottomCapability$BottomInternalGoal of capability bdi4jade.examples.capabilities.BottomCapability
+20:51:27,639 DEBUG (TestPlanBody:168) - Goal BottomInternalGoal dispatched - expected result
+20:51:27,640 DEBUG (AbstractBDIAgent:482) - Goal: TestGoal (ACHIEVED) - bdi4jade.examples.capabilities.Middle1Capability$TestGoal@3daf304c
+20:51:29,423  INFO (SubgoalCapability:107) - ParentPlan executing... counter 0
+20:51:29,424  INFO (SubgoalCapability:107) - ParentPlan executing... counter 1
+20:51:29,424  INFO (SubgoalCapability:75) - Plan executing... counter 0
+20:51:29,424  INFO (SubgoalCapability:53) - ChildPlan executing... counter 0
+20:51:29,425  INFO (SubgoalCapability:107) - ParentPlan executing... counter 2
+20:51:29,425  INFO (SubgoalCapability:75) - Plan executing... counter 1
+20:51:29,425  INFO (SubgoalCapability:53) - ChildPlan executing... counter 1
+20:51:29,425  INFO (SubgoalCapability:53) - ChildPlan executing... counter 0
+20:51:29,426  INFO (SubgoalCapability:107) - ParentPlan executing... counter 3
+20:51:29,426  INFO (SubgoalCapability:75) - Plan executing... counter 2
+20:51:29,426  INFO (SubgoalCapability:53) - ChildPlan executing... counter 2
+20:51:29,426  INFO (SubgoalCapability:53) - ChildPlan executing... counter 1
+20:51:29,426  INFO (SubgoalCapability:53) - ChildPlan executing... counter 0
+20:51:29,427  INFO (SubgoalCapability:107) - ParentPlan executing... counter 4
+20:51:29,427  INFO (SubgoalCapability:59) - ChildPlan aborted.
+20:51:29,427  INFO (SubgoalCapability:59) - ChildPlan aborted.
+20:51:29,428  INFO (SubgoalCapability:59) - ChildPlan aborted.
+20:51:29,428  INFO (SubgoalCapability:59) - ChildPlan aborted.
+20:51:29,428  INFO (SubgoalCapability:112) - Finishing ParentPlan.
+20:51:29,428  INFO (SubgoalCapability:118) - ParentPlan ended.
+20:51:29,428  INFO (SubgoalCapability:75) - Plan executing... counter 3
+20:51:29,428 DEBUG (AbstractBDIAgent:482) - Goal: ParentGoal (PLAN_FAILED) - bdi4jade.examples.bdicycle.SubgoalCapability$ParentGoal@3aa771d8
+20:51:29,429 DEBUG (AbstractBDIAgent:482) - Goal: Subgoal (NO_LONGER_DESIRED) - bdi4jade.examples.bdicycle.SubgoalCapability$Subgoal@48379f73
+20:51:29,429 DEBUG (AbstractBDIAgent:482) - Goal: Subgoal (NO_LONGER_DESIRED) - bdi4jade.examples.bdicycle.SubgoalCapability$Subgoal@1bbb0919
+20:51:29,429 DEBUG (AbstractBDIAgent:482) - Goal: Subgoal (NO_LONGER_DESIRED) - bdi4jade.examples.bdicycle.SubgoalCapability$Subgoal@23569877
+20:51:29,429 DEBUG (AbstractBDIAgent:482) - Goal: Subgoal (NO_LONGER_DESIRED) - bdi4jade.examples.bdicycle.SubgoalCapability$Subgoal@21081c14
+20:51:29,430  INFO (SubgoalCapability:75) - Plan executing... counter 4
+20:51:29,430  INFO (SubgoalCapability:79) - Plan [ bdi4jade.examples.bdicycle.SubgoalCapability$TopLevelGoal ] :: bdi4jade.examples.bdicycle.SubgoalCapability$MyPlan completed its execution.
+20:51:29,430 DEBUG (AbstractBDIAgent:482) - Goal: ParentGoal (UNACHIEVABLE) - bdi4jade.examples.bdicycle.SubgoalCapability$ParentGoal@3aa771d8
+20:51:29,430 DEBUG (AbstractBDIAgent:482) - Goal: TopLevelGoal (ACHIEVED) - bdi4jade.examples.bdicycle.SubgoalCapability$TopLevelGoal@7fda0d0a
+20:51:33,843  INFO (PlanFailureCapability$MyPlan:67) - Random: -2684658736361327557
+20:51:33,844  INFO (PlanFailureCapability$MyPlan:72) - Goal: 0 Plan#Plan2 EndState: FAILED
+20:51:33,844  INFO (PlanFailureCapability$MyPlan:67) - Random: -8697002098801387316
+20:51:33,844  INFO (PlanFailureCapability$MyPlan:72) - Goal: 1 Plan#Plan2 EndState: FAILED
+20:51:33,845  INFO (PlanFailureCapability$MyPlan:67) - Random: 8199150842635994548
+20:51:33,845  INFO (PlanFailureCapability$MyPlan:72) - Goal: 2 Plan#Plan2 EndState: FAILED
+20:51:33,845 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 0
+20:51:33,845 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 1
+20:51:33,845 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 2
+20:51:33,847  INFO (PlanFailureCapability$MyPlan:67) - Random: -1373053328916309860
+20:51:33,847  INFO (PlanFailureCapability$MyPlan:72) - Goal: 0 Plan#Plan1 EndState: FAILED
+20:51:33,848  INFO (PlanFailureCapability$MyPlan:67) - Random: -6173500887664217026
+20:51:33,848  INFO (PlanFailureCapability$MyPlan:72) - Goal: 1 Plan#Plan1 EndState: FAILED
+20:51:33,848  INFO (PlanFailureCapability$MyPlan:67) - Random: -4027916503767743837
+20:51:33,848  INFO (PlanFailureCapability$MyPlan:72) - Goal: 2 Plan#Plan1 EndState: FAILED
+20:51:33,851 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 0
+20:51:33,852 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 1
+20:51:33,852 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 2
+20:51:33,855  INFO (PlanFailureCapability$MyPlan:67) - Random: 1172049781459902398
+20:51:33,855  INFO (PlanFailureCapability$MyPlan:72) - Goal: 0 Plan#Plan3 EndState: FAILED
+20:51:33,858  INFO (PlanFailureCapability$MyPlan:67) - Random: 9097641066965001957
+20:51:33,858  INFO (PlanFailureCapability$MyPlan:72) - Goal: 1 Plan#Plan3 EndState: SUCCESSFUL
+20:51:33,859  INFO (PlanFailureCapability$MyPlan:67) - Random: 2524524053053626602
+20:51:33,859  INFO (PlanFailureCapability$MyPlan:72) - Goal: 2 Plan#Plan3 EndState: FAILED
+20:51:33,859 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 0
+20:51:33,859 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (ACHIEVED) - Goal: 1
+20:51:33,860  INFO (BDI4JADEExamplesPanel$PlanFailureAction:320) - Goal: 1 Status: ACHIEVED
+20:51:33,860 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (PLAN_FAILED) - Goal: 2
+20:51:33,860 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (UNACHIEVABLE) - Goal: 0
+20:51:33,860  INFO (BDI4JADEExamplesPanel$PlanFailureAction:320) - Goal: 0 Status: UNACHIEVABLE
+20:51:33,860 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal (UNACHIEVABLE) - Goal: 2
+20:51:33,860  INFO (BDI4JADEExamplesPanel$PlanFailureAction:320) - Goal: 2 Status: UNACHIEVABLE
+20:51:36,175 DEBUG (SequentialGoalPlanBody:86) - Dispatching goal: MyGoal1: Hello World!
+20:51:36,178  INFO (CompositeGoalCapability:113) - Random: 5699227457537966605
+20:51:36,180  INFO (CompositeGoalCapability:118) - MyGoal1: Hello World! Plan#multigoalPlan1 EndState: SUCCESSFUL
+20:51:36,191 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal1 (ACHIEVED) - MyGoal1: Hello World!
+20:51:36,194 DEBUG (SequentialGoalPlanBody:96) - Goal MyGoal1: Hello World! completed!
+20:51:36,196 DEBUG (SequentialGoalPlanBody:86) - Dispatching goal: MyGoal2: Hello World!
+20:51:36,198  INFO (CompositeGoalCapability:113) - Random: 8756460991465993544
+20:51:36,199  INFO (CompositeGoalCapability:118) - MyGoal2: Hello World! Plan#multigoalPlan2 EndState: SUCCESSFUL
+20:51:36,201 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal2 (ACHIEVED) - MyGoal2: Hello World!
+20:51:36,203 DEBUG (SequentialGoalPlanBody:96) - Goal MyGoal2: Hello World! completed!
+20:51:36,204 DEBUG (SequentialGoalPlanBody:86) - Dispatching goal: MyGoal3: Hello World!
+20:51:36,205  INFO (CompositeGoalCapability:113) - Random: 1760960991502224265
+20:51:36,205  INFO (CompositeGoalCapability:118) - MyGoal3: Hello World! Plan#multigoalPlan2 EndState: SUCCESSFUL
+20:51:36,205 DEBUG (AbstractBDIAgent:482) - Goal: MyGoal3 (ACHIEVED) - MyGoal3: Hello World!
+20:51:36,206 DEBUG (SequentialGoalPlanBody:96) - Goal MyGoal3: Hello World! completed!
+20:51:36,207 DEBUG (SequentialGoalPlanBody:71) - All goals completed.
+20:51:36,207 DEBUG (AbstractBDIAgent:482) - Goal: SequentialGoal (ACHIEVED) - bdi4jade.goal.SequentialGoal@29f0a6cd
+20:51:36,207  INFO (BDI4JADEExamplesPanel$CompositeGoalAction:147) - Goal finished!
+20:51:36,207  INFO (BDI4JADEExamplesPanel$CompositeGoalAction:148) - bdi4jade.goal.SequentialGoal@29f0a6cd Status: ACHIEVED
+20:51:37,764  INFO (PingPlanBody:67) - Ping sent to agent Bob!
+20:51:37,766  INFO (PingPlanBody:67) - Ping sent to agent Alice!
+20:51:37,767 DEBUG (BDIAgentMsgReceiver:66) - Message received.
+20:51:37,767 DEBUG (BDIAgentMsgReceiver:66) - Message received.
+20:51:37,767 DEBUG (BDIAgentMsgReceiver:116) - Message received.
+20:51:37,767 DEBUG (BDIAgentMsgReceiver:116) - Message received.
+20:51:37,769 DEBUG (BDIAgentMsgReceiver:119) - Message goal added for message: (INFORM
+ :sender  ( agent-identifier :name Alice@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc ))
+ :receiver  (set ( agent-identifier :name Bob@192.168.1.6:1099/JADE ) )
+ :content  "ping" 
+ :reply-with  inform1572821497758  :conversation-id  cin1572821497758 )
+20:51:37,769 DEBUG (BDIAgentMsgReceiver:119) - Message goal added for message: (INFORM
+ :sender  ( agent-identifier :name Bob@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc ))
+ :receiver  (set ( agent-identifier :name Alice@192.168.1.6:1099/JADE ) )
+ :content  "ping" 
+ :reply-with  inform1572821497765  :conversation-id  cin1572821497765 )
+20:51:37,776  INFO (PongPlanBody:48) - Ping received from agent Bob@192.168.1.6:1099/JADE!
+20:51:37,777  INFO (PongPlanBody:48) - Ping received from agent Alice@192.168.1.6:1099/JADE!
+20:51:37,778  INFO (PongPlanBody:53) - Pong sent to agent Bob@192.168.1.6:1099/JADE!
+20:51:37,778  INFO (PongPlanBody:53) - Pong sent to agent Alice@192.168.1.6:1099/JADE!
+20:51:37,779 DEBUG (AbstractBDIAgent:482) - Goal: MessageGoal (ACHIEVED) - bdi4jade.message.MessageGoal: (INFORM
+ :sender  ( agent-identifier :name Bob@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc ))
+ :receiver  (set ( agent-identifier :name Alice@192.168.1.6:1099/JADE ) )
+ :content  "ping" 
+ :reply-with  inform1572821497765  :conversation-id  cin1572821497765 )
+20:51:37,780 DEBUG (AbstractBDIAgent:482) - Goal: MessageGoal (ACHIEVED) - bdi4jade.message.MessageGoal: (INFORM
+ :sender  ( agent-identifier :name Alice@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc ))
+ :receiver  (set ( agent-identifier :name Bob@192.168.1.6:1099/JADE ) )
+ :content  "ping" 
+ :reply-with  inform1572821497758  :conversation-id  cin1572821497758 )
+20:51:37,780  INFO (PingPlanBody:71) - Pong received from Bob@192.168.1.6:1099/JADE!
+20:51:37,780  INFO (PingPlanBody:71) - Pong received from Alice@192.168.1.6:1099/JADE!
+20:51:37,780  INFO (PingPlanBody:73) - Content: pong
+20:51:37,781  INFO (PingPlanBody:73) - Content: pong
+20:51:37,781 DEBUG (AbstractBDIAgent:482) - Goal: PingGoal (ACHIEVED) - bdi4jade.examples.ping.PingPongCapability$PingGoal@711ab23a
+20:51:37,782  INFO (PingPlanBody:67) - Ping sent to agent Bob!
+20:51:37,782 DEBUG (BDIAgentMsgReceiver:66) - Message received.
+20:51:37,782 DEBUG (BDIAgentMsgReceiver:116) - Message received.
+20:51:37,783 DEBUG (BDIAgentMsgReceiver:119) - Message goal added for message: (INFORM
+ :sender  ( agent-identifier :name Alice@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc ))
+ :receiver  (set ( agent-identifier :name Bob@192.168.1.6:1099/JADE ) )
+ :content  "ping" 
+ :reply-with  inform1572821497781  :conversation-id  cin1572821497781 )
+20:51:37,784  INFO (PongPlanBody:48) - Ping received from agent Alice@192.168.1.6:1099/JADE!
+20:51:37,785  INFO (PongPlanBody:53) - Pong sent to agent Alice@192.168.1.6:1099/JADE!
+20:51:37,786 DEBUG (AbstractBDIAgent:482) - Goal: MessageGoal (ACHIEVED) - bdi4jade.message.MessageGoal: (INFORM
+ :sender  ( agent-identifier :name Alice@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc ))
+ :receiver  (set ( agent-identifier :name Bob@192.168.1.6:1099/JADE ) )
+ :content  "ping" 
+ :reply-with  inform1572821497781  :conversation-id  cin1572821497781 )
+20:51:37,786 DEBUG (BDIAgentMsgReceiver:66) - Message received.
+20:51:37,786 DEBUG (BDIAgentMsgReceiver:70) - Message cannot be handled:(INFORM
+ :sender  ( agent-identifier :name Bob@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc ))
+ :receiver  (set ( agent-identifier :name Alice@192.168.1.6:1099/JADE  :addresses (sequence http://localhost:7778/acc )) )
+ :content  "pong" 
+ :reply-with  Alice@192.168.1.6:1099/JADE1572821497784  :in-reply-to  inform1572821497781  :conversation-id  cin1572821497781 )
+20:51:37,787  INFO (PingPlanBody:71) - Pong received from Bob@192.168.1.6:1099/JADE!
+20:51:37,787  INFO (PingPlanBody:73) - Content: pong
+20:51:37,787 DEBUG (AbstractBDIAgent:482) - Goal: PingGoal (ACHIEVED) - bdi4jade.examples.ping.PingPongCapability$PingGoal@6cc703ab
+20:51:43,827 DEBUG (AbstractBDIAgent:482) - Goal: HelloWorldGoal (ACHIEVED) - HelloWorldGoal - name: Tassio / time: 1572821503826
+20:51:49,132 DEBUG (AbstractBDIAgent:482) - Goal: HelloWorldGoal (ACHIEVED) - bdi4jade.examples.helloworld.HelloWorldAgent$HelloWorldGoal@f7ecbfc
+20:52:00,674 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,677 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,681 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,683 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,685 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,691 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,693 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,694 DEBUG (AbstractBDIAgent:686) - Capabilities: []
+20:52:00,695 DEBUG (AbstractBDIAgent:686) - Capabilities: []
